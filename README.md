@@ -96,6 +96,7 @@ Mean Absolute Error:
 
 
 Mean Squared Error:
+
 ![275255229-7a9c6ca2-4040-4af9-a3fd-97b68c5d3aca](https://github.com/naramala-niharika/exp-10/assets/94165377/6903df88-f676-481b-9483-6e0375c6caa7)
 
 
