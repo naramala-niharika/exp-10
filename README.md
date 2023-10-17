@@ -13,8 +13,6 @@ To implement the holt winters method using python program
 
 # Program:
 ```
-DEVELOPED BY:P SYAM TEJ
-REF NO:212221240056
 python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -58,22 +56,27 @@ airline.index:
 
 
 airline.tail():
+
 ![275251726-675107e1-e371-44a1-8329-569626bfce72](https://github.com/naramala-niharika/exp-10/assets/94165377/e2e25967-d0e3-4194-8ae8-87316857c63c)
 
 
 len(airline):
+
 ![275252544-25fa7ece-823a-42dc-b5fb-6f8f457f560a](https://github.com/naramala-niharika/exp-10/assets/94165377/62b53735-d194-4175-845f-4cab87339826)
 
 
 len(test_airline):
+
 ![275252330-62b9448f-fc9c-4536-9f05-e97186b25cd7](https://github.com/naramala-niharika/exp-10/assets/94165377/d4d4dfd1-b6f6-439b-be6c-7a4a36c2cb92)
 
 
 test_predictions[:10]:
+
 ![275252993-0b36516f-11df-42f3-8a0d-b7e420b435eb](https://github.com/naramala-niharika/exp-10/assets/94165377/bade8db0-b050-4fd9-8772-0b293ce7c894)
 
 
 Train and Test Data Graph:
+
 ![275253902-6443beb2-577c-4773-a677-40e5efdc92cc](https://github.com/naramala-niharika/exp-10/assets/94165377/550521ea-5f6b-47d4-821d-d4d802c98008)
 
 
@@ -83,10 +86,12 @@ Train, Test and Predicted Test using Holt Winters graph:
 
 
 Prediction Graph:
+
 ![275254754-188cea63-4669-468f-999d-c5fa46096680](https://github.com/naramala-niharika/exp-10/assets/94165377/f37afcd5-98c0-4bb8-adc1-f4f182d6aa1c)
 
 
 Mean Absolute Error:
+
 ![275255004-148075be-7024-4cb0-936d-8314acf2d2c5](https://github.com/naramala-niharika/exp-10/assets/94165377/6a29c25b-f21b-40fb-b5c1-d41a62a0a571)
 
 
@@ -95,10 +100,12 @@ Mean Squared Error:
 
 
 test_airline.describe():
+
 ![275255422-e2f2932e-ce13-45c6-81eb-3e55bf6d2f46](https://github.com/naramala-niharika/exp-10/assets/94165377/ec4f0680-1e30-45e6-bf3c-a389218ce6bb)
 
 
 Airline Passenger Forecast Graph:
+
 ![275255685-558067cc-1480-4b33-b31b-8f7a42f211ad](https://github.com/naramala-niharika/exp-10/assets/94165377/fda64fca-8894-47cc-9681-089c8f14426a)
 
 
